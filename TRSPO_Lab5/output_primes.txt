@@ -1,0 +1,8 @@
+=== Segmented Sieve of Eratosthenes Result (Variant 12) ===
+Upper bound N: 1000000000
+Total primes pi(N): 50847534
+Input read time (s): 0.000032
+Base primes prep time (s): 0.000038
+Compute time (s): 0.093065
+Last 15 primes up to N:
+999999599 999999607 999999613 999999667 999999677 999999733 999999739 999999751 999999757 999999761 999999797 999999883 999999893 999999929 999999937
